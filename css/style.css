@@ -11,30 +11,33 @@
 .author-name{
   color: #FCA507;
 }
-.container{
+.top-banner{
   display: flex;
   align-items: center;
   justify-content: center;
   background-image: url(/images/top-banner.png);
   background-repeat: no-repeat;
-  
+  margin-bottom: 80px;
 }
 .welcome-text{
   width: 65%;
   padding: 7%;
+}
+.tag-text{
+  margin-top: 10px;
 }
 .hero-image{
   width: 35%;
 }
 .hero-image img{
   
-  /* padding: 7%; */
+  padding: 7%;
   width: 70%;
 }
 p{
   margin: 25px 0;
 }
-.hire-me-button{
+.button{
   background-image: linear-gradient(#FCA507, #E92527 );
   text-decoration: none;
   padding: 10px 40px;
@@ -42,4 +45,16 @@ p{
   border-radius: 5px;
   color: #ffffff;
   font-weight: 500;
+}
+.dream-big{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(/images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
+.about-image img{
+  float: right;
 }
