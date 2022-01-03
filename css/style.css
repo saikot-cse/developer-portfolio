@@ -15,8 +15,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url(/images/top-banner.png);
+  background-repeat: no-repeat;
+  
 }
-.welcome-page{
+.welcome-text{
   width: 65%;
   padding: 7%;
 }
