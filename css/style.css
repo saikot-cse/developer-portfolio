@@ -5,7 +5,7 @@
   box-sizing: border-box;
   font-family: "Lato", sans-serif;
 }
-h2{
+h2 {
   font-size: 25px;
 }
 .greeting-text {
@@ -33,7 +33,7 @@ h2{
   margin-top: 10px;
   font-size: 16px;
 }
-.info-text{
+.info-text {
   text-align: justify;
 }
 .hero-image {
@@ -63,7 +63,7 @@ p {
 .about-image img {
   float: right;
 }
-.card-items{
+.card-items {
   width: 40%;
   margin-left: 5%;
   margin-right: 5%;
@@ -73,19 +73,18 @@ p {
   border-radius: 10px;
   border-left: 8px solid red;
 }
-.experience{
+.experience {
   background-image: url(../images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
-  
 }
-#full-stack-experience{
-  border-image: linear-gradient(#0000ff,#00ffff) 14;
+#full-stack-experience {
+  border-image: linear-gradient(#ff0000, #fd5000) 14;
 }
-#web-development-experience{
-  border-image: linear-gradient(#ff0000,#fd5000) 14;
+#web-development-experience {
+  border-image: linear-gradient(#0000ff, #00ffff) 14;
 }
-footer p{
+footer p {
   text-align: center;
   color: #808080;
 }
