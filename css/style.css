@@ -22,7 +22,7 @@ h2{
   margin-top: 20px;
 }
 .top-banner {
-  background-image: url(/images/top-banner.png);
+  background-image: url(../images/top-banner.png);
   margin-bottom: 80px;
 }
 .welcome-text {
@@ -56,7 +56,7 @@ p {
   font-weight: 500;
 }
 .dream-big {
-  background-image: url(/images/dream-bg.png);
+  background-image: url(../images/dream-bg.png);
   background-position: right;
   margin-bottom: 80px;
 }
@@ -74,9 +74,8 @@ p {
   border-left: 8px solid red;
 }
 .experience{
-  background-image: url(/images/exp-bg.png);
-  background-repeat: no-repeat;
-  background-position: left;
+  background-image: url(../images/exp-bg.png);
+  
 }
 #full-stack-experience{
   border-image: linear-gradient(#0000ff,#00ffff) 14;
